@@ -31,4 +31,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Présentation du projet
 
 Projet d'initiation à vue.js.
-Réalisation la gestion de joueurs (sélection de joueurs avec un panier).
+Réalisation d'une gestion de joueurs (sélection de joueurs avec un panier).
