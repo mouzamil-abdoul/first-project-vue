@@ -1,4 +1,9 @@
-# project-vue
+### project-vue
+
+## Présentation du projet
+
+Projet d'initiation à vue.js.
+Réalisation d'une gestion de joueurs (sélection de joueurs avec un panier).
 
 ## Project setup
 
@@ -27,8 +32,3 @@ npm run lint
 ## Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-## Présentation du projet
-
-Projet d'initiation à vue.js.
-Réalisation d'une gestion de joueurs (sélection de joueurs avec un panier).
